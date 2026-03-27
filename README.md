@@ -1,7 +1,4 @@
-# Student_system
-Simple student management system using Java
-# Student System
-
+# Student_system       
 This is a simple Java project to manage student data.
 
 ## Features
